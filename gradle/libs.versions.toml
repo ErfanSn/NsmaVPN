@@ -1,7 +1,7 @@
 [versions]
 accompanistDrawablepainterVersion = "0.34.0"
 activityComposeVersion = "1.8.2"
-agpVersion = "8.3.2"
+agpVersion = "8.5.0"
 appcompatVersion = "1.7.0-alpha03"
 benchmarkMacroJunit4Version = "1.2.4"
 cache4kVersion = "0.13.0"
